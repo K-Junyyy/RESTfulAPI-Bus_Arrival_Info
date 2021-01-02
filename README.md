@@ -1,10 +1,7 @@
 # RESTfulAPI-Bus_Arrival_Info
 ## 공공데이터 Open API를 이용한 버스 도착정보 웹사이트
 ![대문 이미지](https://user-images.githubusercontent.com/74912530/103458602-1714ed00-4d4d-11eb-98a9-818bde8fab6e.png)
-&nasp;
-&nasp;
-&nasp;
-&nasp;
+<br/>
 ### 프론트엔드
 ![그림1](https://user-images.githubusercontent.com/74912530/103458720-32ccc300-4d4e-11eb-98fe-fef0dd390ba1.png)
 ![그림2](https://user-images.githubusercontent.com/74912530/103458724-352f1d00-4d4e-11eb-8b62-435fc5fc2353.png)
