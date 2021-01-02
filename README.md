@@ -16,4 +16,5 @@
 ![그림11](https://user-images.githubusercontent.com/74912530/103458753-73c4d780-4d4e-11eb-91ba-ecb1e60edd4e.png)
 ### AWS람다에서 파이썬 코드로 데이터들을 스크래핑
 ![그림12](https://user-images.githubusercontent.com/74912530/103459054-b3d88a00-4d4f-11eb-8c28-9abb1fe4a2ce.png)
-![그림13](https://user-images.githubusercontent.com/74912530/103459055-b509b700-4d4f-11eb-8234-f51afa37cb36.PNG)
+![그림13](https://user-images.githubusercontent.com/74912530/103459253-462d5d80-4d51-11eb-9436-e1c89381038a.PNG)
+
