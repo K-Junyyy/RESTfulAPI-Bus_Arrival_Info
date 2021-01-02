@@ -11,9 +11,8 @@
 ![그림3](https://user-images.githubusercontent.com/74912530/103458725-35c7b380-4d4e-11eb-8843-e12611864539.png)
 ![그림4](https://user-images.githubusercontent.com/74912530/103458726-36f8e080-4d4e-11eb-8993-d77eff01314c.png)
 
-#
-#
-#
+##
+##
 
 ### 공공데이터 포털에서 받아오는 정보들
   
@@ -22,5 +21,6 @@
 ![그림10](https://user-images.githubusercontent.com/74912530/103458752-732c4100-4d4e-11eb-8875-32ca160061c9.png)
 ![그림11](https://user-images.githubusercontent.com/74912530/103458753-73c4d780-4d4e-11eb-91ba-ecb1e60edd4e.png)
   
-  
+##
+##
   
