@@ -1,5 +1,5 @@
 # RESTfulAPI-Bus_Arrival_Info
-## 공공데이터 Open API를 이용한 버스 도착정보 웹사이트
+## 공공데이터 Open API를 이용한 버스 도착정보 서비스
 ![대문 이미지](https://user-images.githubusercontent.com/74912530/103458602-1714ed00-4d4d-11eb-98a9-818bde8fab6e.png) 
 서울시 1일 교통수단별 통행 현황(분담률) 통계를 봤을 때 버스는 전체 중 24.4%를 차지할 만큼 비중이 큽니다. 
 버스정류장 정보와 도착정보 및 정류장 정보들은 수요가 많을 것으로 예상되기 때문에 
