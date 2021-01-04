@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-### 프론트엔드
+### 프론트엔드(HTML)
 ![그림1](https://user-images.githubusercontent.com/74912530/103458720-32ccc300-4d4e-11eb-98fe-fef0dd390ba1.png)
 ![그림2](https://user-images.githubusercontent.com/74912530/103458724-352f1d00-4d4e-11eb-8b62-435fc5fc2353.png)
 
