@@ -26,13 +26,13 @@
   <input type="submit" value="검색" onclick="get()" />
 
   <script>
-
     const URL = "https://u5vfezh6bl.execute-api.us-east-1.amazonaws.com/default/finalproject";
 
     function get(req) {
-      var data = {number: document.getElementsByName('number')[0].value};
-
-      console.log("fdasfd:", data)
+      var data = {
+        number: document.getElementsByName('number')[0].value
+      };
+      //console.log("fdasfd:", data)
       fetch(URL, {
           method: 'POST',
           headers: {
